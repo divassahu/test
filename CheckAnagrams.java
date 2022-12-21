@@ -14,22 +14,9 @@ public class CheckAnagrams {
         assert isAnagrams("This is a string", "Is this a string");
         assert !isAnagrams("There", "Their");
     }
-
-    /**
-     * Check if two strings are anagrams or not
-     *
-     * @param s1 the first string
-     * @param s2 the second string
-     * @return {@code true} if two string are anagrams, otherwise {@code false}
-     */
     
     
-    
-    
-    
-    
-    
-    
+  
     
     public static boolean isAnagrams(String s1, String s2) {
         int l1 = s1.length();
